@@ -5,13 +5,15 @@ demo:
 
 [العودة إلى الفهرس](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
+
 # Microsoft 365 Copilot في Outlook
+
 
 ## إعداد العرض التوضيحي
 
 يمكن العثور على إرشادات إعداد العرض التوضيحي لهذا الخيار [هنا](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). على وجه التحديد، الصفحات من 1 إلى 4، والتي تتناول كيفية إعداد سلسلة رسائل البريد الإلكتروني التي سنشير إليها في العرض التوضيحي أدناه.
 
-> **هام:** سيتطلب إعداد العرض التوضيحي 4 أشخاص على الأقل (اختياريًا 6). قم بإجراء ذلك مع فريقك قبل التسليم المقرر. بمجرد الانتهاء، يمكنك الرجوع إلى هذا البريد الإلكتروني للتسليمات المستقبلية.
+> <b>هام:</b> سيتطلب إعداد العرض التوضيحي 4 أشخاص على الأقل (اختياريًا 6). قم بإجراء ذلك مع فريقك قبل التسليم المقرر. بمجرد الانتهاء، يمكنك الرجوع إلى هذا البريد الإلكتروني للتسليمات المستقبلية.
 
 ## Talking Points
 
@@ -32,42 +34,66 @@ demo:
 حسنًا، سأحتفظ بهذا الرد".
 
 ## خطوات العرض التوضيحي
+<ol dir='rtl'>
+<li>
+بدّل إلى Outlook مع فتح سلسلة رسائل البريد الإلكتروني التجريبية.
 
-1. بدّل إلى Outlook مع فتح سلسلة رسائل البريد الإلكتروني التجريبية.
+> <b>هام:</b> لا تعرض أي رسائل بريد إلكتروني تحتوي على بيانات سرية.
 
-    > **هام:** لا تعرض أي رسائل بريد إلكتروني تحتوي على بيانات سرية.
+</li>
+<li>
+سفل موضوع البريد الإلكتروني، حدد <b>التلخيص بواسطة Copilot</b> وأشر إلى النتائج.
+</li>
+<li>
+في أعلى الصفحة، حدد <b>الرد على الكل</b>.
+</li>
+<li>
+في أسفل حقل البريد الإلكتروني الجديد، أشر إلى قسم <b>صياغة المسودة بواسطة Copilot</b> والمطالبات المقترحة.
+</li>
+<li>
+حدد <b>مخصص</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/outlook_custom.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/outlook_custom.png" alt="لقطة شاشة تعرض خيار المطالبة المخصصة في Copilot لـ Outlook."> </a></p>
+</li>
+<li>
+في الحقل <b>ماذا تريد أن تقول في البريد الإلكتروني</b>، انسخ وألصق المطالبة أو اكتب: 
 
-1. أسفل موضوع البريد الإلكتروني، حدد **التلخيص بواسطة Copilot** وأشر إلى النتائج.
-1. في أعلى الصفحة، حدد **الرد على الكل**.
-1. في أسفل حقل البريد الإلكتروني الجديد، أشر إلى قسم **صياغة المسودة بواسطة Copilot** والمطالبات المقترحة.
-1. حدد **مخصص**.
-
-    ![لقطة شاشة تعرض خيار المطالبة المخصصة في Copilot لـ Outlook.](../Demos/Media/outlook_custom.png)
-
-
-1. في الحقل **ماذا تريد أن تقول في البريد الإلكتروني**، انسخ وألصق المطالبة أو اكتب: 
-
-    ```text
+<pre><code>
     Approve and thank the team--be warm! They worked hard. And be a little funny if you can.
-    ```
+</code></pre>
+</li>
+<li>
+حدد الزر <b>تحرير المطالبة</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/edit_prompt_outlook.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/edit_prompt_outlook.png" alt="لقطة شاشة تعرض خيار تحرير المطالبة في Copilot لـ Outlook."> </a></p>
 
-1. حدد الزر **تحرير المطالبة**.
+</li>
+<li>
 
-    ![لقطة شاشة تعرض خيار تحرير المطالبة في Copilot لـ Outlook.](../Demos/Media/edit_prompt_outlook.png)
+حدد <b>يبدو مثلي</b>.
+</li>
+<li>
+حدد <b>إنشاء</b>.
+</li>
+<li>
+حدد <b>هل هناك أي شيء ترغب في تغييره؟</b> مربع النص.
+</li>
+<li>
+انسخ وألصق المطالبة أو اكتب: 
 
-1. حدد **يبدو مثلي**.
-1. حدد **إنشاء**.
-1. حدد **هل هناك أي شيء ترغب في تغييره؟** مربع النص.
-1. انسخ وألصق المطالبة أو اكتب: 
-
-    ```text
+<pre><code>
     Can you make a that a bit longer? It's just a little bit too short.
-    ```
+</code></pre>
+</li>
+<li>
+حدد الزر <b>إنشاء</b>.  
+</li>
+<li>
+<b>اختياري</b>: في <b>هل هناك أي شيء ترغب في تغييره؟</b> في مربع النص، اكتب <b>"اجعله أكثر مرحًا"</b> ثم حدد "إنشاء".
+</li>
+<li>
+حدد <b>الاحتفاظ به</b>.
 
-1. حدد الزر **إنشاء**.  
-1. **اختياري**: في **هل هناك أي شيء ترغب في تغييره؟** في مربع النص، اكتب **"اجعله أكثر مرحًا"** ثم حدد "إنشاء".
-1. حدد **الاحتفاظ به**.
-
-    > **ملاحظة:** لا ترسل الرد، حيث قد ترغب في إعادة استخدام سلسلة رسائل البريد الإلكتروني هذه في العروض التوضيحية المستقبلية.
+> <b>ملاحظة:</b> لا ترسل الرد، حيث قد ترغب في إعادة استخدام سلسلة رسائل البريد الإلكتروني هذه في العروض التوضيحية المستقبلية.
+</li>
+</ol>
 
 [العودة إلى الفهرس](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
