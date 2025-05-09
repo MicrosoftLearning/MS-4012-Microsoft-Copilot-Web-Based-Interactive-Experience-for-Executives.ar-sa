@@ -27,52 +27,65 @@ demo:
 
 ## خطوات العرض التوضيحي
 
-> **هام:** لتخصيص المطالبات بشكل أكبر، ابحث عن رسائل البريد الإلكتروني أو الاجتماعات غير السرية واطلب من Copilot تلخيصها أو سرد عناصر العمل. هام: عند اختيار الأشخاص، اختر الأشخاص الذين لا تشارك معهم معلومات سرية!
-
-1. في الجزء العلوي الأوسط، بدّل إلى **العمل**.
-
-1. في مربع النص **رسالة Copilot**، انسخ وألصق المطالبة: 
-
-    ```text
+> <b>هام:</b> لتخصيص المطالبات بشكل أكبر، ابحث عن رسائل البريد الإلكتروني أو الاجتماعات غير السرية واطلب من Copilot تلخيصها أو سرد عناصر العمل. هام: عند اختيار الأشخاص، اختر الأشخاص الذين لا تشارك معهم معلومات سرية!
+<ol dir='rtl'>
+<li>
+في الجزء العلوي الأوسط، بدّل إلى <b>العمل</b>.
+</li>
+<li>
+في مربع النص <b>رسالة Copilot</b>، انسخ وألصق المطالبة: 
+<pre><code>
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
-    ```
-
-1. حدد الزر **إرسال**.
-
-1. في مربع النص **رسالة Copilot**، انسخ والصق أو اكتب: 
-
-    ```text
+</code></pre>
+</li>
+<li>
+حدد الزر <b>إرسال</b>.
+</li>
+<li>
+في مربع النص <b>رسالة Copilot</b>، انسخ والصق أو اكتب: 
+<pre><code>
     Can you summarize the last five emails from “/”.
-    ```
-    > **ملاحظة:** يجب عليك تضمين رمز الشرطة المائلة.
+</code></pre>
 
-1. ابدأ بكتابة اسم زميل.
+> <b>ملاحظة:</b> يجب عليك تضمين رمز الشرطة المائلة.
+</li>
+<li>
+ابدأ بكتابة اسم زميل.
 
-    > **هام:** اختر شخصًا لا تشارك معه أي معلومات سرية.
+> <b>هام:</b> اختر شخصًا لا تشارك معه أي معلومات سرية.
+</li>
+<li>
+حدد اسم الشخص عند ظهوره.
+</li>
+<li>
+انسخ والصق أو اكتب بقية المطالبة:
 
-1. حدد اسم الشخص عند ظهوره.
-1. انسخ والصق أو اكتب بقية المطالبة:
-
-    ```text
+<pre><code>
     To be specific, look for the last five emails from this person over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
-    ```
+</code></pre>
+</li>
+<li>
+حدد <b>إرسال</b>.
+</li>
+<li>
+<b>اختياري:</b> في مربع النص <b>رسالة Copilot</b>، انسخ وألصق المطالبة:
 
-1. حدد **إرسال**.
-
-1. **اختياري:** في مربع النص **رسالة Copilot**، انسخ وألصق المطالبة:
-
-    ```text
+<pre><code>
     Can you summarize the last five emails from my boss? To be specific, look for the last five emails from my boss over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
-    ```
+</code></pre>
 
-    ثم حدد **إرسال**.
+    ثم حدد <b>إرسال</b>.
+</li>
+<li>
+<b>اختياري:</b> في مربع النص رسالة Copilot*"، انسخ وألصق المطالبة:
 
-1. **اختياري:** في مربع النص **رسالة Copilot*"، انسخ وألصق المطالبة:
-
-    ```text
+<pre><code>
     Review my meetings this week and create 5-7 categories that describe how I am spending my time. For each category, provide a short description and give me an approximate percentage of time I spent there.
-    ```
+</code></pre>
 
-    ثم حدد **إرسال**.
+ثم حدد <b>إرسال</b>.
+</li>
+</ol>
 
 [العودة إلى الفهرس](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+

@@ -11,17 +11,17 @@ demo:
 
 لضمان عرض توضيحي سلس، اختر أحد خيارات الإعداد التالية:
 
-**الخيار أ: خلاصة الاجتماع**
+<b>الخيار أ: خلاصة الاجتماع</b>
 
 يمكن العثور على إرشادات إعداد العرض التوضيحي لهذا الخيار [هنا](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). بالتحديد، راجع الصفحات من 5 إلى 10 التي تغطي كيفية إعداد اجتماع Teams (Project Avalon) الذي سنشير إليه في العرض التوضيحي أدناه.
 
-> **مهم:**
+> <b>مهم:</b>
 > - سيتطلب إعداد العرض التوضيحي للخيار أ أربعة أشخاص على الأقل (اختياريًا 6).
 > - قم بإجراء ذلك مع فريقك قبل التسليم المقرر.
 > - بمجرد الانتهاء، يمكنك الرجوع إلى اجتماع Teams هذا للتسليمات المستقبلية.
 > - إذا لم تتمكن من القيام بالإعداد لأي سبب من الأسباب، فراجع العرض التوضيحي للخيار ب.
 
-**الخيار ب: دردشة Teams**
+<b>الخيار ب: دردشة Teams</b>
 
 قصدًا، لا يتطلب خيار العرض التوضيحي هذا إعدادًا مسبقًا. ومع ذلك، تحتاج إلى الاستفادة من أحد سلاسل دردشة Teams الخاصة بك والموجودة مسبقًا. تأكد من عدم مشاركتك لمعلومات سرية في هذه الدردشة قبل استخدامها في العرض التوضيحي الخاص بك.
 
@@ -39,49 +39,66 @@ demo:
 الآن يمكنني طرح أسئلة على Copilot والحصول على مزيد من المعلومات حول هذا الاجتماع. على سبيل المثال، دعونا نرى ما تم مناقشته وما هي عناصر الإجراءات لكل شخص."
 
 ### خطوات العرض التوضيحي
+<ol dir='rtl'>
+<li>
+قم بالتبديل إلى علامة تبويب المستعرض مع فتح Microsoft Teams للاجتماع <b>بدء اجتماع مشروع Avalon</b>.
 
-1. قم بالتبديل إلى علامة تبويب المستعرض مع فتح Microsoft Teams للاجتماع **بدء اجتماع مشروع Avalon**.
+> <b>هام:</b> لا تعرض أي اجتماعات أو دردشات تحتوي على بيانات سرية.
+</li>
+<li>
+حدد علامة تبويب<b>الملخص</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_recap.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_recap.png" alt="لقطة شاشة تعرض الملخص في Copilot في Teams."> </a></p>
 
-    > **هام:** لا تعرض أي اجتماعات أو دردشات تحتوي على بيانات سرية.
+</li>
+<li>
+أشر إلى <b>المتحدثين</b>.
+</li>
+<li>
+حدّد <b>الموضوعات</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_topics.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_topics.png" alt="للقطة شاشة تعرض الموضوعات في Copilot في Teams."> </a></p>
 
-1. حدد علامة تبويب**الملخص**.
+</li>
+<li>
+حدد <b>الفصول</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_chapters.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_chapters.png" alt="لقطة شاشة تعرض الفصول في Copilot في Teams."> </a></p>
 
-    ![لقطة شاشة تعرض الملخص في Copilot في Teams.](../Demos/Media/teams_recap.png)
+</li>
+<li>
+في الزاوية العلوية اليمنى، حدد <b>Copilot</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_copilot.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_copilot.png" alt="لقطة شاشة تعرض خيار Copilot في Copilot في Teams."> </a></p>
 
-1. أشر إلى **المتحدثين**.
-1. حدّد **الموضوعات**.
+</li>
+<li>
+في مربع نص<b>اسألني عن أي شيء حول هذا الاجتماع</b> ، انسخ الطلب والصقه:
 
-    ![لقطة شاشة تعرض الموضوعات في Copilot في Teams.](../Demos/Media/teams_topics.png)
-
-1. حدد **الفصول**.
-
-    ![لقطة شاشة تعرض الفصول في Copilot في Teams.](../Demos/Media/teams_chapters.png)
-
-1. في الزاوية العلوية اليمنى، حدد **Copilot**.
-
-    ![لقطة شاشة تعرض خيار Copilot في Copilot في Teams.](../Demos/Media/teams_copilot.png)
-
-1. في مربع نص**اسألني عن أي شيء حول هذا الاجتماع** ، انسخ الطلب والصقه:
-
-    ```text
+<pre><code>
     Can you list action items and owners in a table?
-    ```
+</code></pre>
+</li>
+<li>
+حدد <b>إرسال</b>.
+</li>
+<li>
+في مربع نص<b>اسألني عن أي شيء حول هذا الاجتماع</b> ، انسخ الطلب والصقه: 
 
-1. حدد **إرسال**.
-1. في مربع نص**اسألني عن أي شيء حول هذا الاجتماع** ، انسخ الطلب والصقه: 
-
-    ```text
+<pre><code>
     Did anyone strongly oppose the decision, and how do you know?
-    ```
-    
-1. حدد **إرسال**.
-1. في مربع نص**اسألني عن أي شيء حول هذا الاجتماع** ، انسخ الطلب والصقه:
+</code></pre>
+</li>
+<li>  
+حدد <b>إرسال</b>.
+</li>
+<li>
+في مربع نص<b>اسألني عن أي شيء حول هذا الاجتماع</b> ، انسخ الطلب والصقه:
 
-    ```text
+<pre><code>
     Based on the transcript, when would you recommend we launch the product and why?
-    ```
-
-1. حدد **إرسال**.
+</code></pre>
+</li>
+<li>
+حدد <b>إرسال</b>.
+</li>
+</ol>
 
 ## الخيار ب - دردشة Teams
 
@@ -96,34 +113,43 @@ demo:
 بالإضافة إلى ذلك، يمكنني صياغة مسودة رد واستخدام Copilot لتحسينه، والتأكد من أن رسالتي واضحة وموجزة. وهذا مفيد بشكل خاص لضمان التواصل الفعال داخل الفريق."
 
 ### خطوات العرض التوضيحي
+<ol dir='rtl'>
+<li>
+ابحث عن سلسلة رسائل Teams Chat التي لم تشارك فيها أي معلومات سرية. حدد الخيار <b>فتح الدردشة في نافذة جديدة</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_chat_window.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_chat_window.png" alt="لقطة شاشة تظهر خيار فتح الدردشة في نافذة جديدة."> </a></p>
 
-1. ابحث عن سلسلة رسائل Teams Chat التي لم تشارك فيها أي معلومات سرية. حدد الخيار **فتح الدردشة في نافذة جديدة**.
+</li>
+<li>
+عند فتح Teams Chat في نافذة جديدة، حدد <b>فتح Copilot</b> في الزاوية اليمنى العليا.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_copilot.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_copilot.png" alt="لقطة شاشة تعرض فتح Copilot في Teams Chat."> </a></p>
 
-    ![لقطة شاشة تظهر خيار فتح الدردشة في نافذة جديدة.](../Demos/Media/teams_open_chat_window.png)
+</li>
+<li>
+في جزء الدردشة Copilot الذي يُفتح، حدد <b>أبرز ما حدث في اليوم الماضي</b>* للحصول على ملخص سريع للدردشات في اليوم الماضي.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_highlights.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_highlights.png" alt="لقطة شاشة تعرض فتح Copilot في Teams Chat."> </a></p>
 
-1. عند فتح Teams Chat في نافذة جديدة، حدد **فتح Copilot** في الزاوية اليمنى العليا.
+</li>
+<li>
+في مربع النص <b>اطرح سؤالًا حول هذه الدردشة</b>، انسخ وألصق المطالبة: 
 
-    ![لقطة شاشة تعرض فتح Copilot في Teams Chat.](../Demos/Media/teams_open_copilot.png)
-
-1. في جزء الدردشة Copilot الذي يُفتح، حدد **أبرز ما حدث في اليوم الماضي*** للحصول على ملخص سريع للدردشات في اليوم الماضي.
-
-    ![لقطة شاشة تعرض فتح Copilot في Teams Chat.](../Demos/Media/teams_highlights.png)
-
-1. في مربع النص **اطرح سؤالًا حول هذه الدردشة**، انسخ وألصق المطالبة: 
-
-    ```text
+<pre><code>
     What are the open items?
-    ```
-    > **ملاحظة:** لا تتردد في اختيار مثال لمطالبة بديلة تعتقد أنه سيستهدف جمهورك بشكل أفضل.   
+</code></pre>
+> <b>ملاحظة:</b> لا تتردد في اختيار مثال لمطالبة بديلة تعتقد أنه سيستهدف جمهورك بشكل أفضل.   
+</li>
+<li>
+تحت سجل الدردشة، في مربع النص <b>اكتب رسالة</b>، ابدأ في كتابة الرد. <b>لا تضغط على الإرسال بعد.</b>
+</li>
+<li>
+باستخدام مسودة ردك، حدد Copilot من مربع النص <b>اكتب رسالة</b>.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_copilot_chat.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_open_copilot_chat.png" alt="لقطة شاشة تعرض فتح Copilot في سلسلة رسائل Teams Chat."> </a></p>
 
-1. تحت سجل الدردشة، في مربع النص **اكتب رسالة**، ابدأ في كتابة الرد. **لا تضغط على الإرسال بعد.**
+</li>
+<li>
+جرّب خياري <b>إعادة الكتابة</b> و<b>الضبط</b> لـ Copilot لإظهار قدرات Copilot بشكل أكبر.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_rewrite_adjust.png"><img src="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives.ar-sa/blob/main/Instructions/Demos/Media/teams_rewrite_adjust.png" alt="لقطة شاشة توضح إعادة الكتابة والتعديل في Teams Copilot."> </a></p>
 
-1. باستخدام مسودة ردك، حدد Copilot من مربع النص **اكتب رسالة**.
-
-    ![لقطة شاشة تعرض فتح Copilot في سلسلة رسائل Teams Chat.](../Demos/Media/teams_open_copilot_chat.png)   
-
-1. جرّب خياري **إعادة الكتابة** و**الضبط** لـ Copilot لإظهار قدرات Copilot بشكل أكبر.
-
-    ![لقطة شاشة توضح إعادة الكتابة والتعديل في Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)     
+</li>
+</ol>
 
 [العودة إلى الفهرس](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
